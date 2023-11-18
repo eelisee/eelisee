@@ -1,16 +1,24 @@
-### Hi there 👋
+<!-- Heading -->
+<div align="center">
+  <p>
+  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
+    <strong>
+      Hi there! I'm Elise
+    </strong>
+  </p>
+</div>
 
-<!--
-**eelisee/eelisee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h6>
+    [ˈeˈliːzə]
+  </h6>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- About section -->
+--- 
+- 👨‍🎓 Studying Mathematics in Business and Economics (B.Sc.) at the [University of Mannheim](https://www.uni-mannheim.de/)
+
+- 🔭 I'm interested in the intersection of Data Science, AI, and Mathematics. Additionally, I am a board member of STADS e.V., a student association dedicated to Data Science.
+
+- 📫 How to reach me: [Email](mailto:elise.wolf@stads.de), [LinkedIn](https://www.linkedin.com/in/elise-wolf)
