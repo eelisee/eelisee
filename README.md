@@ -17,7 +17,7 @@
 
 <!-- About section -->
 --- 
-- 👨‍🎓 Studying Mathematics in Business and Economics (B.Sc.) at the [University of Mannheim](https://www.uni-mannheim.de/)
+- 👨‍🎓 Studying Mathematics (M.Sc.) & Data Science (M.Sc.) at the [University of Mannheim](https://www.uni-mannheim.de/)
 
 - 🔭 I'm interested in the intersection of Data Science, AI, and Mathematics. Additionally, I am a board member of STADS e.V., a student association dedicated to Data Science.
 
